@@ -9,12 +9,17 @@ level. ie, Computer, the player keeps catching as many computer parts falling do
 from the sky to create a computer at the end of the level. The level ends when the
 bar (representing total items caught) in the corner of the screen, fills up to 100%.
 Each level has different technologies to be build, ie, computer, laptop, phone, 
-TV, monitor, etc.
+TV, monitor, headphones, etc. and the difficulty of each level hardens as the technology
+becomes harder to build due to more parts than previous level.
 The players apperance will be a stereotypical nerd looking guy, with big glasses, braces,
 funky shirt, and greasy hair.
+ 
+30 second  gameplay description:
+A nerdy guy catching gadget parts falling from the sky to build his own technology. Any 
+parts for phones, computers, monitors, etc. Multiple level game with different technology
+to build each level. As the players progresses, levels become more difficult as there
+will be more parts to catch every round.
 
-30 second  gameplay description
-...
 Pillars
 ...
 Features
