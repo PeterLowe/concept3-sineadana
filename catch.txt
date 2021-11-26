@@ -1,7 +1,18 @@
-Title
-...
-Elavator Pitch
-...
+Title:
+Techno Catch
+
+Elavator Pitch:
+Multiple level game where the player moves the character at the bottom of the screen
+to catch falling down items from the top of the screen. The falling down items are 
+different parts of technology, which will then create the technology at the end of the 
+level. ie, Computer, the player keeps catching as many computer parts falling down 
+from the sky to create a computer at the end of the level. The level ends when the
+bar (representing total items caught) in the corner of the screen, fills up to 100%.
+Each level has different technologies to be build, ie, computer, laptop, phone, 
+TV, monitor, etc.
+The players apperance will be a stereotypical nerd looking guy, with big glasses, braces,
+funky shirt, and greasy hair.
+
 30 second  gameplay description
 ...
 Pillars
